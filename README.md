@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> Right now this is just a raw copy of the source code. I need to clean it and test it to make sure that it works in modern python.
+
+
 # Python-Gantt #
 
 Python-Gantt make possible to easily draw gantt charts from Python.  
